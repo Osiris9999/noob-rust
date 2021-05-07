@@ -2,7 +2,7 @@ use std::io;
 const MULTIPLY: f32 = 1.8;
 const ADD: f32 = 32.0;
 fn main() {
-    // program to change farenheit to celsius
+    // program to change celsius to farenheit
     
     
     let mut cel =  String::new();
